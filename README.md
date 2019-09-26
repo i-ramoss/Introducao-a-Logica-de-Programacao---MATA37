@@ -1,0 +1,1 @@
+Repositório referente aos códigos de exercícios das questões tratadas na matéria Introdução à Lógica de Programação - MATA37.
