@@ -1,0 +1,20 @@
+5
+1 1 2 3 3
+
+0 2 1 2 0 0..
+
+0.   0 >= 0; pos=0; maior=0
+1.   2 >= 0; pos=1; maior=2;
+2.   1 >= 2; pos=1; maior=2;
+3.   2 >= 2; pos=3; maior=2;
+
+7
+20 20 20 100 20 4 4 2
+
+2.   1 >= 0; pos=2; maior=1;
+4.   2 >= 1; pos=4; maior=2;
+20.  4 >= 2; pos=20;maior=4;
+100. 
+
+comparar os valores do vetor, se iguais 
+
